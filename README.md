@@ -6,3 +6,4 @@
 2. Installation and Folder Structure Demystified in NextJS
 3. File Conventions, Reserved Files in NextJS
 4. Routing, Linking and Navigating in NextJS
+5. Rendering Right Component for Faster Load and Seamless Experiences in NextJS
