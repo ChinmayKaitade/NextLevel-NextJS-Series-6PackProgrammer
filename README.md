@@ -7,3 +7,4 @@
 3. File Conventions, Reserved Files in NextJS
 4. Routing, Linking and Navigating in NextJS
 5. Rendering Right Component for Faster Load and Seamless Experiences in NextJS
+6. Deep dive into Backend and API Routing in NextJS
